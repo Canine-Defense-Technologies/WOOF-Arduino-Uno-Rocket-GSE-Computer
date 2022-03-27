@@ -1,6 +1,10 @@
-# WOOF-Arduino-Uno-Rocket-GSE-Computer (BETA) 
+# WOOF-Arduino-Uno-Rocket-GSE-Computer
 This is an simple arduino uno sheild to give you the outputs needed to control a rocket launch, static fire, propulsion test stand, and more! 
 The Gerber Files are included so you can have the pcbs made by your favorite manufactuere in the color you like! 
+
+## Video
+
+https://www.youtube.com/watch?v=qhmFurbW0P4
 
 PCB Manufaturing Specs
 Layer: 2
@@ -8,8 +12,7 @@ Thickness: 1.6 mm
 Dimensions: 69mm x 53mm
 Copper Weight: 1
 
-
-PARTS:
+## Parts
 
 1X WOOF Pcb Board
 
@@ -26,4 +29,6 @@ PARTS:
 Header Pins
 
 
-Instructions coming soon on Canine Rocket Technologies YouTube! 
+## Instructions
+
+https://www.youtube.com/watch?v=z30E2lIfa5Q
