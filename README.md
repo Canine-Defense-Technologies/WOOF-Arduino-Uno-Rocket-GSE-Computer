@@ -4,7 +4,7 @@ The Gerber Files are included so you can have the pcbs made by your favorite man
 
 ## Video
 
-https://www.youtube.com/watch?v=qhmFurbW0P4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qhmFurbW0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 PCB Manufaturing Specs
 Layer: 2
@@ -31,4 +31,4 @@ Header Pins
 
 ## Instructions
 
-https://www.youtube.com/watch?v=z30E2lIfa5Q
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z30E2lIfa5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
