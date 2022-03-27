@@ -30,4 +30,6 @@ Header Pins
 
 ## Instructions
 
+[![WOOF-Arduino-Uno-Rocket-GSE-Computer](https://img.youtube.com/vi/z30E2lIfa5Q/0.jpg)](https://www.youtube.com/watch?v=z30E2lIfa5Q)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z30E2lIfa5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
