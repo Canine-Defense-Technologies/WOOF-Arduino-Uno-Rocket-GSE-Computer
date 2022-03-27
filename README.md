@@ -3,8 +3,7 @@ This is an simple arduino uno sheild to give you the outputs needed to control a
 The Gerber Files are included so you can have the pcbs made by your favorite manufactuere in the color you like! 
 
 ## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qhmFurbW0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![WOOF-Arduino-Uno-Rocket-GSE-Computer](https://img.youtube.com/vi/qhmFurbW0P4/0.jpg)](https://www.youtube.com/watch?v=qhmFurbW0P4)
 
 PCB Manufaturing Specs
 Layer: 2
